@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Body -->
+    <path
+        android:fillColor="#E3E2E6"
+        android:pathData="M30,38 h12 l4,-6 h16 l4,6 h12 c4.4,0 8,3.6 8,8 v24 c0,4.4 -3.6,8 -8,8 H30 c-4.4,0 -8,-3.6 -8,-8 V46 c0,-4.4 3.6,-8 8,-8 z" />
+    <!-- Outer Lens Ring (Pixel Google Colors) -->
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M54,42 c9.9,0 18,8.1 18,18 s-8.1,18 -18,18 s-18,-8.1 -18,-18 s8.1,-18 18,-18 z" />
+    <!-- Inner Aperture Lens -->
+    <path
+        android:fillColor="#1F2128"
+        android:pathData="M54,46 c7.7,0 14,6.3 14,14 s-6.3,14 -14,14 s-14,-6.3 -14,-14 s6.3,-14 14,-14 z" />
+    <!-- Lens Reflection -->
+    <path
+        android:fillColor="#EA4335"
+        android:pathData="M54,50 c5.5,0 10,4.5 10,10 s-4.5,10 -10,10 s-10,-4.5 -10,-10 s4.5,-10 10,-10 z" />
+    <path
+        android:fillColor="#FBBC05"
+        android:pathData="M54,53 c3.9,0 7,3.1 7,7 s-3.1,7 -7,7 s-7,-3.1 -7,-7 s3.1,-7 7,-7 z" />
+    <!-- AI Sparkle Four-Point Star -->
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M78,34 c0,2.8 -2.2,5 -5,5 c2.8,0 5,2.2 5,5 c0,-2.8 2.2,-5 5,-5 c-2.8,0 -5,-2.2 -5,-5 z" />
+</vector>

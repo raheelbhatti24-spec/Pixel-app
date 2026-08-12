@@ -1,0 +1,6 @@
+{
+  "name": "PixelShot AI",
+  "description": "PixelShot AI - Capture photos and post-process them into a signature Google Pixel camera look using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
